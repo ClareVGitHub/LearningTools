@@ -1,3 +1,10 @@
+# wortschatz is a learning aid for learning german as a foreign language. You can choose to add words and thier translation 
+# to a sqlite database using sqlalchemy or you can choose the play mode which will cyce through your words to help you 
+# memorize them.
+
+# Open in the terminal with >>> python3 wortschatz_2.2.py
+
+# requirements: You need to have installed python3 and sqlalchemy
 
 import sqlalchemy
 
